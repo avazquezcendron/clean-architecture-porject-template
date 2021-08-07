@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs
+/CleanArchitectureApi/.vs/CleanArchitectureApi/v16
+/CleanArchitectureApi/.vs/CleanArchitectureApi/DesignTimeBuild
+/CleanArchitecture.Api/.vs/CleanArchitectureApi
+/CleanArchitecture.Api/bin/Debug/netcoreapp3.1
+/CleanArchitecture.Api/obj
+/CleanArchitecture.Application/bin/Debug/netstandard2.0
+/CleanArchitecture.Application/obj
+/CleanArchitecture.Domain/bin/Debug/netstandard2.0
+/CleanArchitecture.Domain/obj
+/CleanArchitecture.Infrastructure/bin/Debug/netstandard2.0
+/CleanArchitecture.Infrastructure/obj
